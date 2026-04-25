@@ -1,4 +1,4 @@
-# Demineur
+# Démineur (Minesweeper)
  
 Projet de NSI au programme de 1ère. Un petit jeu de démineur en ligne de commande écrit en Python. Le jeu demande au joueur une ligne et une colonne, révèle la case choisie, et s'arrête si le joueur touche une mine.
  
@@ -17,9 +17,9 @@ Projet de NSI au programme de 1ère. Un petit jeu de démineur en ligne de comma
 - Aucune dépendance externe (le script n'importe que `random` de la bibliothèque standard)
  
 ## Lancer le jeu
- 
-```bash
+Pour lancer le jeu, executez :
+```
 
-python demineur.py
+RUN.bat
 
 ```
