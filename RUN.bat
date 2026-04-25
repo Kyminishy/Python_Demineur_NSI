@@ -1,4 +1,4 @@
 @echo off
 cd /d "%~dp0"
-py demineur.py
+python demineur.py
 pause
